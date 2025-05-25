@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**HoDoR54/HoDoR54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by.  
+This profile is a personal space for learning, building, and experimenting with code.
 
-Here are some ideas to get you started:
+## 🔍 What You’ll Find
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Personal tools and utilities  
+- 🧪 Experiments and practice projects  
+- 📚 Notes and mini apps from my development journey  
+
+## 🚧 Ongoing Progress
+
+Some repositories are polished, others are works-in-progress or just scratchpads for trying new ideas. Everything here reflects my learning process.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoDoR54&show_icons=true&theme=default&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoDoR54&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HoDoR54&theme=default)
+
+---
+
+> “Talk is cheap. Show me the code.” – Linus Torvalds
