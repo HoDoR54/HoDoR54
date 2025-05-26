@@ -30,8 +30,7 @@
 
 ## 📈 GitHub Stats
 
-![Hpone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoDoR54&show_icons=true&theme=onedark&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoDoR54&layout=compact&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoDoR54&theme=dark)
 
 ---
 
