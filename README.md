@@ -24,7 +24,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-📘 Currently Learning: `Next.js`, `Laravel (PHP)`, `MySQL`
+📘 Currently Learning: `Next.js`, `Laravel (PHP)`, `Node.js`, `Express.js`
 
 ---
 
